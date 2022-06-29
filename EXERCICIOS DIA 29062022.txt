@@ -1,0 +1,44 @@
+1. O que são métodos HTTP ? Métodos http são instruções do protocolo que define métodos a serem executados, como,
+ get, post, put, delete, trace, options, patch e connect. Todos esses métodos são verbos, ou seja, são ações a serem
+executadas.
+
+2. Quais são os metodos http mais usados atualmente ? Atualmente os métodos http mais utilizados são o get, post, delete e put. 
+São os metodos básicos, mas hoje são necessarios os 8 existentes para uma completa utilização dos metodos.
+
+3. Quais são os 2 principais métodos do HTTP ? Qual é a diferença entre eles ? Os dois principais
+métodos são o get e post, o método get é usado quando o usuário solicita recursos do servidor, o metedo post
+ é usado quando o cliente deseja enviar seus dados para serem processados em outro servidor. E a diferença ente eles
+é que um pede informações e o outro manda.
+
+4. O que são requisições http ? quais são seus tipos ? Uma requisição http é um pedido que o navegador faz ao servidor
+quando servidor acha e interpreta o pedido ele envia a resposta para o navegador.
+
+5. Como funciona uma requisição ? uma requisição é através de um  método e tal método terá o seu proprio comportamento
+para dar a resposta que que queremos em questão.
+
+6. O que é o método GET ? O método get funciona como uma requisição de recursos do servidor.
+
+7. Qual é o protocolo de internet para transferência segura,  com uso de certificado digital, utilizado em sites de compras 
+eletronicas ? é o SSL, ele cria uma ponte com criptografia de ponta que passa pelo navegador até o servidor.
+
+8. Quais os principais metodos de uma requisição REST ? Uma requisição rest geralmente usa os métodos get, post, put e delete.
+
+9. Qual a diferença de Ipv4 e Ipv6 ? o protocolo ipv4 é um protocolo de internet versão 4 e por ser mais antiga possui uma entrada
+de endereços de apenas 32 bits, e com a expansão da internet foi se tornando obsoleto dando vida ao protocolo ipv6 com uma entrada
+de endereços de 128 bits suportando 340 undecilhões de endereços.
+
+10. Faça um resumo sobre os seguintes protocolos:  http, tcp, ip, udp, smtp e ftp. 
+http - significa hypertext transfer protocol e é usado para o transporte de paginas html em servidores web para os navegadores, o
+protocolo ajuda com a comunicação.
+
+tcp - o protocolo tcp é utilizado no envio e no recebimento de dados na web
+
+ip - o protocolo IP fornece o mecanismo para usar o software para endereçar e gerenciar pacotes de dados sendo enviados pelos computadores.
+
+udp - uma conexão do tipo não confiavel para controle e gerenciamento de aplicações, é utilizado para o transporte de algum dados onde a própria 
+aplicação faz a verificação da integridade dos dados.
+
+smtp - é utilizado para o transporte de e-mail, sendo que o SMTP é uma aplicação utilizada para transporte e não um meio 
+de transporte. Por isso ele se localiza na camada de Aplicação do projeto.
+
+ftp - Permite a transferência de arquivos entre dois computadores através de login e senha.
